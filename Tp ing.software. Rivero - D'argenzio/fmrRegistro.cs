@@ -10,24 +10,14 @@ using System.Windows.Forms;
 
 namespace Tp_ing.software.Rivero___D_argenzio
 {
-    public partial class fmrLogin : Form
+    public partial class fmrRegistro : Form
     {
-        public fmrLogin()
+        public fmrRegistro()
         {
             InitializeComponent();
         }
 
         private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
         }
