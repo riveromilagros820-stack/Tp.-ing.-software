@@ -8,11 +8,18 @@ namespace BE
 {
     public class Usuario
     {
-        public int Id { get; set; }
-        public string Nombre { get; set; }
-        public string Apellido { get; set; }
+        public int Id { get; set; } 
         public string NombreUsuario { get; set; }
-        public string Password { get; set; }
-        public string Rol { get; set; }
+        public string Contrasena { get; set; }
+
+        public BEPerfil Perfil { get; set; }
+
+        public Usuario()
+        {
+            // Instanciamos el perfil para que siempre esté disponible
+            Perfil = new BEPerfil();
+        }
     }
+
+
 }
