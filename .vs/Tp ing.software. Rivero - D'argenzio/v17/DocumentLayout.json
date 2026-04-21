@@ -1,30 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\",
+  "WorkspaceRootPath": "C:\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|c:\\users\\river\\onedrive\\ing. software\\tp ing.software. rivero - d\u0027argenzio\\tp ing.software. rivero - d\u0027argenzio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|solutionrelative:tp ing.software. rivero - d\u0027argenzio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20BCF6EB-3A8E-4507-BE14-95DDD40375BA}|MPP\\MPP.csproj|c:\\users\\river\\onedrive\\ing. software\\tp ing.software. rivero - d\u0027argenzio\\mpp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20BCF6EB-3A8E-4507-BE14-95DDD40375BA}|MPP\\MPP.csproj|solutionrelative:mpp\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E32842D-C256-4FBE-BE06-C35B6633BD30}|BLL\\BLL.csproj|c:\\users\\river\\onedrive\\ing. software\\tp ing.software. rivero - d\u0027argenzio\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E32842D-C256-4FBE-BE06-C35B6633BD30}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D869EE8-6834-41AB-AA3E-D0753B8401C6}|DAL\\DAL.csproj|c:\\users\\river\\onedrive\\ing. software\\tp ing.software. rivero - d\u0027argenzio\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D869EE8-6834-41AB-AA3E-D0753B8401C6}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70EB5323-8391-4223-BF98-55B7703FBE89}|BE\\BE.csproj|c:\\users\\river\\onedrive\\ing. software\\tp ing.software. rivero - d\u0027argenzio\\be\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70EB5323-8391-4223-BF98-55B7703FBE89}|BE\\BE.csproj|solutionrelative:be\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\Tp ing.software. Rivero - D\u0027argenzio.csproj|c:\\users\\river\\onedrive\\ing. software\\tp ing.software. rivero - d\u0027argenzio\\tp ing.software. rivero - d\u0027argenzio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\Tp ing.software. Rivero - D\u0027argenzio.csproj|solutionrelative:tp ing.software. rivero - d\u0027argenzio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|c:\\ing. software\\tp ing.software. rivero - d\u0027argenzio\\tp ing.software. rivero - d\u0027argenzio\\fmrlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|solutionrelative:tp ing.software. rivero - d\u0027argenzio\\fmrlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,92 +14,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\Tp ing.software. Rivero - D\u0027argenzio\\Program.cs",
-              "RelativeDocumentMoniker": "Tp ing.software. Rivero - D\u0027argenzio\\Program.cs",
-              "ToolTip": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\Tp ing.software. Rivero - D\u0027argenzio\\Program.cs",
-              "RelativeToolTip": "Tp ing.software. Rivero - D\u0027argenzio\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T14:04:18.891Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\BLL\\Class1.cs",
-              "RelativeDocumentMoniker": "BLL\\Class1.cs",
-              "ToolTip": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\BLL\\Class1.cs",
-              "RelativeToolTip": "BLL\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T14:00:28.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\MPP\\Class1.cs",
-              "RelativeDocumentMoniker": "MPP\\Class1.cs",
-              "ToolTip": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\MPP\\Class1.cs",
-              "RelativeToolTip": "MPP\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T13:56:51.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\DAL\\Class1.cs",
-              "RelativeDocumentMoniker": "DAL\\Class1.cs",
-              "ToolTip": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\DAL\\Class1.cs",
-              "RelativeToolTip": "DAL\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T13:56:21.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\BE\\Class1.cs",
-              "RelativeDocumentMoniker": "BE\\Class1.cs",
-              "ToolTip": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\BE\\Class1.cs",
-              "RelativeToolTip": "BE\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T13:55:48.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\Tp ing.software. Rivero - D\u0027argenzio\\Form1.cs",
-              "RelativeDocumentMoniker": "Tp ing.software. Rivero - D\u0027argenzio\\Form1.cs",
-              "ToolTip": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\Tp ing.software. Rivero - D\u0027argenzio\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Tp ing.software. Rivero - D\u0027argenzio\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T13:53:41.53Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fmrLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.cs",
+              "RelativeDocumentMoniker": "Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.cs",
+              "ToolTip": "C:\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T00:10:45.736Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
