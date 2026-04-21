@@ -1,66 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\",
+  "WorkspaceRootPath": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E32842D-C256-4FBE-BE06-C35B6633BD30}|BLL\\BLL.csproj|c:\\users\\river\\onedrive\\ing. software\\tp ing.software. rivero - d\u0027argenzio\\bll\\bllusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E32842D-C256-4FBE-BE06-C35B6633BD30}|BLL\\BLL.csproj|solutionrelative:bll\\bllusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|c:\\users\\magui\\desktop\\uai\\3er a\u00F1o\\ing de software\\proyecto ing\\tp ing.software. rivero - d\u0027argenzio\\fmrlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|solutionrelative:tp ing.software. rivero - d\u0027argenzio\\fmrlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E32842D-C256-4FBE-BE06-C35B6633BD30}|BLL\\BLL.csproj|C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\bll\\blllogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E32842D-C256-4FBE-BE06-C35B6633BD30}|BLL\\BLL.csproj|solutionrelative:bll\\blllogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20BCF6EB-3A8E-4507-BE14-95DDD40375BA}|MPP\\MPP.csproj|C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\mpp\\mppusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20BCF6EB-3A8E-4507-BE14-95DDD40375BA}|MPP\\MPP.csproj|solutionrelative:mpp\\mppusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20BCF6EB-3A8E-4507-BE14-95DDD40375BA}|MPP\\MPP.csproj|c:\\users\\river\\onedrive\\ing. software\\tp ing.software. rivero - d\u0027argenzio\\mpp\\mppidioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20BCF6EB-3A8E-4507-BE14-95DDD40375BA}|MPP\\MPP.csproj|solutionrelative:mpp\\mppidioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20BCF6EB-3A8E-4507-BE14-95DDD40375BA}|MPP\\MPP.csproj|c:\\users\\river\\onedrive\\ing. software\\tp ing.software. rivero - d\u0027argenzio\\mpp\\mppbitacora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20BCF6EB-3A8E-4507-BE14-95DDD40375BA}|MPP\\MPP.csproj|solutionrelative:mpp\\mppbitacora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|c:\\users\\river\\onedrive\\ing. software\\tp ing.software. rivero - d\u0027argenzio\\tp ing.software. rivero - d\u0027argenzio\\frmcambiocontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|solutionrelative:tp ing.software. rivero - d\u0027argenzio\\frmcambiocontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|c:\\users\\river\\onedrive\\ing. software\\tp ing.software. rivero - d\u0027argenzio\\tp ing.software. rivero - d\u0027argenzio\\fmrregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|solutionrelative:tp ing.software. rivero - d\u0027argenzio\\fmrregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E32842D-C256-4FBE-BE06-C35B6633BD30}|BLL\\BLL.csproj|C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\bll\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E32842D-C256-4FBE-BE06-C35B6633BD30}|BLL\\BLL.csproj|solutionrelative:bll\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E32842D-C256-4FBE-BE06-C35B6633BD30}|BLL\\BLL.csproj|C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\bll\\bllidioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E32842D-C256-4FBE-BE06-C35B6633BD30}|BLL\\BLL.csproj|solutionrelative:bll\\bllidioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|c:\\users\\river\\onedrive\\ing. software\\tp ing.software. rivero - d\u0027argenzio\\tp ing.software. rivero - d\u0027argenzio\\fmrlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|c:\\users\\magui\\desktop\\uai\\3er a\u00F1o\\ing de software\\proyecto ing\\tp ing.software. rivero - d\u0027argenzio\\fmrlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|solutionrelative:tp ing.software. rivero - d\u0027argenzio\\fmrlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|c:\\users\\river\\onedrive\\ing. software\\tp ing.software. rivero - d\u0027argenzio\\tp ing.software. rivero - d\u0027argenzio\\frmcambiocontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|c:\\users\\magui\\desktop\\uai\\3er a\u00F1o\\ing de software\\proyecto ing\\tp ing.software. rivero - d\u0027argenzio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|solutionrelative:tp ing.software. rivero - d\u0027argenzio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|c:\\users\\magui\\desktop\\uai\\3er a\u00F1o\\ing de software\\proyecto ing\\tp ing.software. rivero - d\u0027argenzio\\fmrlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|solutionrelative:tp ing.software. rivero - d\u0027argenzio\\fmrlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|c:\\users\\magui\\desktop\\uai\\3er a\u00F1o\\ing de software\\proyecto ing\\tp ing.software. rivero - d\u0027argenzio\\frmcambiocontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|solutionrelative:tp ing.software. rivero - d\u0027argenzio\\frmcambiocontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|c:\\users\\river\\onedrive\\ing. software\\tp ing.software. rivero - d\u0027argenzio\\tp ing.software. rivero - d\u0027argenzio\\fmrregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|solutionrelative:tp ing.software. rivero - d\u0027argenzio\\fmrregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{70EB5323-8391-4223-BF98-55B7703FBE89}|BE\\BE.csproj|c:\\users\\magui\\desktop\\uai\\3er a\u00F1o\\ing de software\\proyecto ing\\be\\beidioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EB5323-8391-4223-BF98-55B7703FBE89}|BE\\BE.csproj|solutionrelative:be\\beidioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D869EE8-6834-41AB-AA3E-D0753B8401C6}|DAL\\DAL.csproj|c:\\users\\river\\onedrive\\ing. software\\tp ing.software. rivero - d\u0027argenzio\\dal\\accesodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D869EE8-6834-41AB-AA3E-D0753B8401C6}|DAL\\DAL.csproj|C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\dal\\accesodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D869EE8-6834-41AB-AA3E-D0753B8401C6}|DAL\\DAL.csproj|solutionrelative:dal\\accesodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70EB5323-8391-4223-BF98-55B7703FBE89}|BE\\BE.csproj|C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\be\\beperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9E32842D-C256-4FBE-BE06-C35B6633BD30}|BLL\\BLL.csproj|C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\bll\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E32842D-C256-4FBE-BE06-C35B6633BD30}|BLL\\BLL.csproj|solutionrelative:bll\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E32842D-C256-4FBE-BE06-C35B6633BD30}|BLL\\BLL.csproj|C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\bll\\blllogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E32842D-C256-4FBE-BE06-C35B6633BD30}|BLL\\BLL.csproj|solutionrelative:bll\\blllogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E32842D-C256-4FBE-BE06-C35B6633BD30}|BLL\\BLL.csproj|C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\bll\\bllidioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E32842D-C256-4FBE-BE06-C35B6633BD30}|BLL\\BLL.csproj|solutionrelative:bll\\bllidioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EB5323-8391-4223-BF98-55B7703FBE89}|BE\\BE.csproj|C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\be\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EB5323-8391-4223-BF98-55B7703FBE89}|BE\\BE.csproj|solutionrelative:be\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EB5323-8391-4223-BF98-55B7703FBE89}|BE\\BE.csproj|C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\be\\beperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70EB5323-8391-4223-BF98-55B7703FBE89}|BE\\BE.csproj|solutionrelative:be\\beperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70EB5323-8391-4223-BF98-55B7703FBE89}|BE\\BE.csproj|C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\be\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70EB5323-8391-4223-BF98-55B7703FBE89}|BE\\BE.csproj|solutionrelative:be\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20BCF6EB-3A8E-4507-BE14-95DDD40375BA}|MPP\\MPP.csproj|C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\mpp\\mppbitacora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BCF6EB-3A8E-4507-BE14-95DDD40375BA}|MPP\\MPP.csproj|solutionrelative:mpp\\mppbitacora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BCF6EB-3A8E-4507-BE14-95DDD40375BA}|MPP\\MPP.csproj|C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\mpp\\mppidioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BCF6EB-3A8E-4507-BE14-95DDD40375BA}|MPP\\MPP.csproj|solutionrelative:mpp\\mppidioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,201 +66,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 22,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BLLLogin.cs",
-              "DocumentMoniker": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\BLL\\BLLLogin.cs",
-              "RelativeDocumentMoniker": "BLL\\BLLLogin.cs",
-              "ToolTip": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\BLL\\BLLLogin.cs",
-              "RelativeToolTip": "BLL\\BLLLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T16:32:22.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BLLUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\BLL\\BLLUsuario.cs",
-              "RelativeDocumentMoniker": "BLL\\BLLUsuario.cs",
-              "ToolTip": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\BLL\\BLLUsuario.cs",
-              "RelativeToolTip": "BLL\\BLLUsuario.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAqwB8AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T19:29:07.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SessionManager.cs",
-              "DocumentMoniker": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\BLL\\SessionManager.cs",
-              "RelativeDocumentMoniker": "BLL\\SessionManager.cs",
-              "ToolTip": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\BLL\\SessionManager.cs",
-              "RelativeToolTip": "BLL\\SessionManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T16:31:24.103Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
-              "Name": "ST:153:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "fmrRegistro.cs",
-              "DocumentMoniker": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\Tp ing.software. Rivero - D\u0027argenzio\\fmrRegistro.cs",
-              "RelativeDocumentMoniker": "Tp ing.software. Rivero - D\u0027argenzio\\fmrRegistro.cs",
-              "ToolTip": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\Tp ing.software. Rivero - D\u0027argenzio\\fmrRegistro.cs",
-              "RelativeToolTip": "Tp ing.software. Rivero - D\u0027argenzio\\fmrRegistro.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAgwEoAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T21:01:14.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmCambioContrase\u00F1a.cs",
-              "DocumentMoniker": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\Tp ing.software. Rivero - D\u0027argenzio\\frmCambioContrase\u00F1a.cs",
-              "RelativeDocumentMoniker": "Tp ing.software. Rivero - D\u0027argenzio\\frmCambioContrase\u00F1a.cs",
-              "ToolTip": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\Tp ing.software. Rivero - D\u0027argenzio\\frmCambioContrase\u00F1a.cs",
-              "RelativeToolTip": "Tp ing.software. Rivero - D\u0027argenzio\\frmCambioContrase\u00F1a.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T21:02:02.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MPPBitacora.cs",
-              "DocumentMoniker": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\MPP\\MPPBitacora.cs",
-              "RelativeDocumentMoniker": "MPP\\MPPBitacora.cs",
-              "ToolTip": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\MPP\\MPPBitacora.cs",
-              "RelativeToolTip": "MPP\\MPPBitacora.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T20:58:08.277Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MPPIdioma.cs",
-              "DocumentMoniker": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\MPP\\MPPIdioma.cs",
-              "RelativeDocumentMoniker": "MPP\\MPPIdioma.cs",
-              "ToolTip": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\MPP\\MPPIdioma.cs",
-              "RelativeToolTip": "MPP\\MPPIdioma.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T20:55:46.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MPPUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\MPP\\MPPUsuario.cs",
-              "RelativeDocumentMoniker": "MPP\\MPPUsuario.cs",
-              "ToolTip": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\MPP\\MPPUsuario.cs",
-              "RelativeToolTip": "MPP\\MPPUsuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T16:22:30.246Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BLLIdioma.cs",
-              "DocumentMoniker": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\BLL\\BLLIdioma.cs",
-              "RelativeDocumentMoniker": "BLL\\BLLIdioma.cs",
-              "ToolTip": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\BLL\\BLLIdioma.cs",
-              "RelativeToolTip": "BLL\\BLLIdioma.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T19:05:30.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "fmrLogin.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.cs",
-              "RelativeDocumentMoniker": "Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.cs",
-              "ToolTip": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T20:57:47.975Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "frmCambioContrase\u00F1a.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\Tp ing.software. Rivero - D\u0027argenzio\\frmCambioContrase\u00F1a.cs",
-              "RelativeDocumentMoniker": "Tp ing.software. Rivero - D\u0027argenzio\\frmCambioContrase\u00F1a.cs",
-              "ToolTip": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\Tp ing.software. Rivero - D\u0027argenzio\\frmCambioContrase\u00F1a.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Tp ing.software. Rivero - D\u0027argenzio\\frmCambioContrase\u00F1a.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T21:03:08.672Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "fmrRegistro.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\Tp ing.software. Rivero - D\u0027argenzio\\fmrRegistro.cs",
-              "RelativeDocumentMoniker": "Tp ing.software. Rivero - D\u0027argenzio\\fmrRegistro.cs",
-              "ToolTip": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\Tp ing.software. Rivero - D\u0027argenzio\\fmrRegistro.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Tp ing.software. Rivero - D\u0027argenzio\\fmrRegistro.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T21:01:18.278Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AccesoDal.cs",
-              "DocumentMoniker": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\DAL\\AccesoDal.cs",
-              "RelativeDocumentMoniker": "DAL\\AccesoDal.cs",
-              "ToolTip": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\DAL\\AccesoDal.cs",
-              "RelativeToolTip": "DAL\\AccesoDal.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T20:32:58.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Bookmark",
@@ -272,71 +82,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Bookmark",
@@ -344,7 +90,35 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
@@ -352,41 +126,199 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BEPerfil.cs",
-              "DocumentMoniker": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\BE\\BEPerfil.cs",
-              "RelativeDocumentMoniker": "BE\\BEPerfil.cs",
-              "ToolTip": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\BE\\BEPerfil.cs",
-              "RelativeToolTip": "BE\\BEPerfil.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\Tp ing.software. Rivero - D\u0027argenzio\\Program.cs",
+              "RelativeDocumentMoniker": "Tp ing.software. Rivero - D\u0027argenzio\\Program.cs",
+              "ToolTip": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\Tp ing.software. Rivero - D\u0027argenzio\\Program.cs",
+              "RelativeToolTip": "Tp ing.software. Rivero - D\u0027argenzio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T15:32:59.06Z",
+              "WhenOpened": "2026-04-21T21:53:15.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\BE\\Usuario.cs",
-              "RelativeDocumentMoniker": "BE\\Usuario.cs",
-              "ToolTip": "C:\\Users\\river\\OneDrive\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\BE\\Usuario.cs",
-              "RelativeToolTip": "BE\\Usuario.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "fmrLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.cs",
+              "RelativeDocumentMoniker": "Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.cs",
+              "ToolTip": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.cs",
+              "RelativeToolTip": "Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAAAAwBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T15:32:56.39Z",
+              "WhenOpened": "2026-04-21T21:28:47.564Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fmrLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.Designer.cs",
+              "RelativeDocumentMoniker": "Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.Designer.cs",
+              "RelativeToolTip": "Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.Designer.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAowJMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T21:21:48.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fmrLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.cs",
+              "RelativeDocumentMoniker": "Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.cs",
+              "ToolTip": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T21:19:36.293Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmCambioContrase\u00F1a.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\Tp ing.software. Rivero - D\u0027argenzio\\frmCambioContrase\u00F1a.cs",
+              "RelativeDocumentMoniker": "Tp ing.software. Rivero - D\u0027argenzio\\frmCambioContrase\u00F1a.cs",
+              "ToolTip": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\Tp ing.software. Rivero - D\u0027argenzio\\frmCambioContrase\u00F1a.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Tp ing.software. Rivero - D\u0027argenzio\\frmCambioContrase\u00F1a.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T21:19:28.663Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BEIdioma.cs",
+              "DocumentMoniker": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\BE\\BEIdioma.cs",
+              "RelativeDocumentMoniker": "BE\\BEIdioma.cs",
+              "ToolTip": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\BE\\BEIdioma.cs",
+              "RelativeToolTip": "BE\\BEIdioma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:41:44.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BEPerfil.cs",
+              "DocumentMoniker": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\BE\\BEPerfil.cs",
+              "RelativeDocumentMoniker": "BE\\BEPerfil.cs",
+              "ToolTip": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\BE\\BEPerfil.cs",
+              "RelativeToolTip": "BE\\BEPerfil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:42:30.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\BE\\Usuario.cs",
+              "RelativeDocumentMoniker": "BE\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\BE\\Usuario.cs",
+              "RelativeToolTip": "BE\\Usuario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:42:31.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BLLIdioma.cs",
+              "DocumentMoniker": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\BLL\\BLLIdioma.cs",
+              "RelativeDocumentMoniker": "BLL\\BLLIdioma.cs",
+              "ToolTip": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\BLL\\BLLIdioma.cs",
+              "RelativeToolTip": "BLL\\BLLIdioma.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:59:14.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\BLL\\SessionManager.cs",
+              "RelativeDocumentMoniker": "BLL\\SessionManager.cs",
+              "ToolTip": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\BLL\\SessionManager.cs",
+              "RelativeToolTip": "BLL\\SessionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T19:23:40.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccesoDal.cs",
+              "DocumentMoniker": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\DAL\\AccesoDal.cs",
+              "RelativeDocumentMoniker": "DAL\\AccesoDal.cs",
+              "ToolTip": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\DAL\\AccesoDal.cs",
+              "RelativeToolTip": "DAL\\AccesoDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T18:39:28.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BLLLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\BLL\\BLLLogin.cs",
+              "RelativeDocumentMoniker": "BLL\\BLLLogin.cs",
+              "ToolTip": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\BLL\\BLLLogin.cs",
+              "RelativeToolTip": "BLL\\BLLLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:42:40.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MPPBitacora.cs",
+              "DocumentMoniker": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\MPP\\MPPBitacora.cs",
+              "RelativeDocumentMoniker": "MPP\\MPPBitacora.cs",
+              "ToolTip": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\MPP\\MPPBitacora.cs",
+              "RelativeToolTip": "MPP\\MPPBitacora.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T19:23:49.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MPPIdioma.cs",
+              "DocumentMoniker": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\MPP\\MPPIdioma.cs",
+              "RelativeDocumentMoniker": "MPP\\MPPIdioma.cs",
+              "ToolTip": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\MPP\\MPPIdioma.cs",
+              "RelativeToolTip": "MPP\\MPPIdioma.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:54:21.384Z"
             }
           ]
         }

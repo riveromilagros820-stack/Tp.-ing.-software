@@ -1,10 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\",
+  "WorkspaceRootPath": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|c:\\ing. software\\tp ing.software. rivero - d\u0027argenzio\\tp ing.software. rivero - d\u0027argenzio\\fmrlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|c:\\users\\magui\\desktop\\uai\\3er a\u00F1o\\ing de software\\proyecto ing\\tp ing.software. rivero - d\u0027argenzio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|solutionrelative:tp ing.software. rivero - d\u0027argenzio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|c:\\users\\magui\\desktop\\uai\\3er a\u00F1o\\ing de software\\proyecto ing\\tp ing.software. rivero - d\u0027argenzio\\fmrlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|solutionrelative:tp ing.software. rivero - d\u0027argenzio\\fmrlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|c:\\users\\magui\\desktop\\uai\\3er a\u00F1o\\ing de software\\proyecto ing\\tp ing.software. rivero - d\u0027argenzio\\fmrlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|solutionrelative:tp ing.software. rivero - d\u0027argenzio\\fmrlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|c:\\users\\magui\\desktop\\uai\\3er a\u00F1o\\ing de software\\proyecto ing\\tp ing.software. rivero - d\u0027argenzio\\fmrlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|solutionrelative:tp ing.software. rivero - d\u0027argenzio\\fmrlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|c:\\users\\magui\\desktop\\uai\\3er a\u00F1o\\ing de software\\proyecto ing\\tp ing.software. rivero - d\u0027argenzio\\frmcambiocontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF9DE784-0670-43E1-92C3-9B8F6BAB1D47}|Tp ing.software. Rivero - D\u0027argenzio\\GUI.csproj|solutionrelative:tp ing.software. rivero - d\u0027argenzio\\frmcambiocontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EB5323-8391-4223-BF98-55B7703FBE89}|BE\\BE.csproj|c:\\users\\magui\\desktop\\uai\\3er a\u00F1o\\ing de software\\proyecto ing\\be\\beidioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EB5323-8391-4223-BF98-55B7703FBE89}|BE\\BE.csproj|solutionrelative:be\\beidioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D869EE8-6834-41AB-AA3E-D0753B8401C6}|DAL\\DAL.csproj|C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\dal\\accesodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D869EE8-6834-41AB-AA3E-D0753B8401C6}|DAL\\DAL.csproj|solutionrelative:dal\\accesodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E32842D-C256-4FBE-BE06-C35B6633BD30}|BLL\\BLL.csproj|C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\bll\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E32842D-C256-4FBE-BE06-C35B6633BD30}|BLL\\BLL.csproj|solutionrelative:bll\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E32842D-C256-4FBE-BE06-C35B6633BD30}|BLL\\BLL.csproj|C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\bll\\blllogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E32842D-C256-4FBE-BE06-C35B6633BD30}|BLL\\BLL.csproj|solutionrelative:bll\\blllogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E32842D-C256-4FBE-BE06-C35B6633BD30}|BLL\\BLL.csproj|C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\bll\\bllidioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E32842D-C256-4FBE-BE06-C35B6633BD30}|BLL\\BLL.csproj|solutionrelative:bll\\bllidioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EB5323-8391-4223-BF98-55B7703FBE89}|BE\\BE.csproj|C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\be\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EB5323-8391-4223-BF98-55B7703FBE89}|BE\\BE.csproj|solutionrelative:be\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70EB5323-8391-4223-BF98-55B7703FBE89}|BE\\BE.csproj|C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\be\\beperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EB5323-8391-4223-BF98-55B7703FBE89}|BE\\BE.csproj|solutionrelative:be\\beperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BCF6EB-3A8E-4507-BE14-95DDD40375BA}|MPP\\MPP.csproj|C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\mpp\\mppbitacora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BCF6EB-3A8E-4507-BE14-95DDD40375BA}|MPP\\MPP.csproj|solutionrelative:mpp\\mppbitacora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BCF6EB-3A8E-4507-BE14-95DDD40375BA}|MPP\\MPP.csproj|C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\mpp\\mppidioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BCF6EB-3A8E-4507-BE14-95DDD40375BA}|MPP\\MPP.csproj|solutionrelative:mpp\\mppidioma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,35 +66,259 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\Tp ing.software. Rivero - D\u0027argenzio\\Program.cs",
+              "RelativeDocumentMoniker": "Tp ing.software. Rivero - D\u0027argenzio\\Program.cs",
+              "ToolTip": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\Tp ing.software. Rivero - D\u0027argenzio\\Program.cs",
+              "RelativeToolTip": "Tp ing.software. Rivero - D\u0027argenzio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T21:53:15.532Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "fmrLogin.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.cs",
+              "DocumentIndex": 3,
+              "Title": "fmrLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.cs",
               "RelativeDocumentMoniker": "Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.cs",
-              "ToolTip": "C:\\Ing. software\\Tp ing.software. Rivero - D\u0027argenzio\\Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.cs",
+              "RelativeToolTip": "Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAAAAwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T21:28:47.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fmrLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.Designer.cs",
+              "RelativeDocumentMoniker": "Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.Designer.cs",
+              "RelativeToolTip": "Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.Designer.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowJMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T21:21:48.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fmrLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.cs",
+              "RelativeDocumentMoniker": "Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.cs",
+              "ToolTip": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.cs [Dise\u00F1o]",
               "RelativeToolTip": "Tp ing.software. Rivero - D\u0027argenzio\\fmrLogin.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T00:10:45.736Z",
+              "WhenOpened": "2026-04-21T21:19:36.293Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmCambioContrase\u00F1a.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\Tp ing.software. Rivero - D\u0027argenzio\\frmCambioContrase\u00F1a.cs",
+              "RelativeDocumentMoniker": "Tp ing.software. Rivero - D\u0027argenzio\\frmCambioContrase\u00F1a.cs",
+              "ToolTip": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\Tp ing.software. Rivero - D\u0027argenzio\\frmCambioContrase\u00F1a.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Tp ing.software. Rivero - D\u0027argenzio\\frmCambioContrase\u00F1a.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T21:19:28.663Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BEIdioma.cs",
+              "DocumentMoniker": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\BE\\BEIdioma.cs",
+              "RelativeDocumentMoniker": "BE\\BEIdioma.cs",
+              "ToolTip": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\BE\\BEIdioma.cs",
+              "RelativeToolTip": "BE\\BEIdioma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:41:44.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BEPerfil.cs",
+              "DocumentMoniker": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\BE\\BEPerfil.cs",
+              "RelativeDocumentMoniker": "BE\\BEPerfil.cs",
+              "ToolTip": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\BE\\BEPerfil.cs",
+              "RelativeToolTip": "BE\\BEPerfil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:42:30.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\BE\\Usuario.cs",
+              "RelativeDocumentMoniker": "BE\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\BE\\Usuario.cs",
+              "RelativeToolTip": "BE\\Usuario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:42:31.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BLLIdioma.cs",
+              "DocumentMoniker": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\BLL\\BLLIdioma.cs",
+              "RelativeDocumentMoniker": "BLL\\BLLIdioma.cs",
+              "ToolTip": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\BLL\\BLLIdioma.cs",
+              "RelativeToolTip": "BLL\\BLLIdioma.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:59:14.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\BLL\\SessionManager.cs",
+              "RelativeDocumentMoniker": "BLL\\SessionManager.cs",
+              "ToolTip": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\BLL\\SessionManager.cs",
+              "RelativeToolTip": "BLL\\SessionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T19:23:40.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccesoDal.cs",
+              "DocumentMoniker": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\DAL\\AccesoDal.cs",
+              "RelativeDocumentMoniker": "DAL\\AccesoDal.cs",
+              "ToolTip": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\DAL\\AccesoDal.cs",
+              "RelativeToolTip": "DAL\\AccesoDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T18:39:28.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BLLLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\BLL\\BLLLogin.cs",
+              "RelativeDocumentMoniker": "BLL\\BLLLogin.cs",
+              "ToolTip": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\BLL\\BLLLogin.cs",
+              "RelativeToolTip": "BLL\\BLLLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:42:40.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MPPBitacora.cs",
+              "DocumentMoniker": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\MPP\\MPPBitacora.cs",
+              "RelativeDocumentMoniker": "MPP\\MPPBitacora.cs",
+              "ToolTip": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\MPP\\MPPBitacora.cs",
+              "RelativeToolTip": "MPP\\MPPBitacora.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T19:23:49.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MPPIdioma.cs",
+              "DocumentMoniker": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\MPP\\MPPIdioma.cs",
+              "RelativeDocumentMoniker": "MPP\\MPPIdioma.cs",
+              "ToolTip": "C:\\Users\\Magui\\Desktop\\UAI\\3er a\u00F1o\\Ing de Software\\Proyecto ing\\MPP\\MPPIdioma.cs",
+              "RelativeToolTip": "MPP\\MPPIdioma.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:54:21.384Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }
