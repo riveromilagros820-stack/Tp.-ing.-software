@@ -19,7 +19,7 @@ namespace Tp_ing.software.Rivero___D_argenzio
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new fmrLogin());
+            Application.Run(new Form1());
         }
     }
 }
