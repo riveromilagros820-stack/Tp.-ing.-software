@@ -8,33 +8,42 @@ using System.Threading.Tasks;
 
 namespace DAL
 {
-    public class AccesoDal
-    {
-        private string connectionString = "";
-
-        public DataTable Leer(string query, List<SqlParameter> parametros)
+    
+        public class AccesoDal
         {
-            using (SqlConnection conn = new SqlConnection(connectionString))
+            // 🔗 Cadena de conexión: ajustala según tu servidor y base de datos
+            private string connectionString = "Data Source=DESKTOP-UOCRKUM;Initial Catalog=Proyecto_BD;Integrated Security=True";
+
+            /// <summary>
+            /// Ejecuta consultas que devuelven datos (SELECT)
+            /// </summary>
+            public DataTable Leer(string query, List<SqlParameter> parametros)
             {
-                SqlCommand cmd = new SqlCommand(query, conn);
-                if (parametros != null) cmd.Parameters.AddRange(parametros.ToArray());
-                SqlDataAdapter da = new SqlDataAdapter(cmd);
-                DataTable dt = new DataTable();
-                da.Fill(dt);
-                return dt;
+                using (SqlConnection conexion = new SqlConnection(connectionString))
+                {
+                    SqlCommand comando = new SqlCommand(query, conexion);
+                    if (parametros != null) comando.Parameters.AddRange(parametros.ToArray());
+
+                    SqlDataAdapter adaptador = new SqlDataAdapter(comando);
+                    DataTable dt = new DataTable();
+                    adaptador.Fill(dt);
+                    return dt;
+                }
+            }
+
+            /// <summary>
+            /// Ejecuta consultas que no devuelven datos (INSERT, UPDATE, DELETE)
+            /// </summary>
+            public void Escribir(string query, List<SqlParameter> parametros)
+            {
+                using (SqlConnection conexion = new SqlConnection(connectionString))
+                {
+                    conexion.Open();
+                    SqlCommand comando = new SqlCommand(query, conexion);
+                    if (parametros != null) comando.Parameters.AddRange(parametros.ToArray());
+                    comando.ExecuteNonQuery();
+                }
             }
         }
-
-        public void Escribir(string query, List<SqlParameter> parametros)
-        {
-            using (SqlConnection conn = new SqlConnection(connectionString))
-            {
-                SqlCommand cmd = new SqlCommand(query, conn);
-                if (parametros != null) cmd.Parameters.AddRange(parametros.ToArray());
-                conn.Open();
-                cmd.ExecuteNonQuery();
-            }
-        }
-
     }
-}
+
