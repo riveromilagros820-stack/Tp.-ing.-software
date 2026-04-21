@@ -14,32 +14,39 @@ namespace MPP
     {
         private AccesoDal acceso = new AccesoDal();
 
-        public Usuario ObtenerPorDNI(string dni)
+        public void CrearUsuario(Usuario usuario)
+        {
+            string query = "INSERT INTO Usuarios (Apellido, DNI, Contraseña, IdiomaId, Activo) VALUES (@a, @dni, @c, @i, @act)";
+            var parametros = new List<SqlParameter> {
+                new SqlParameter("@a", usuario.Apellido),
+                new SqlParameter("@dni", usuario.DNI),
+                new SqlParameter("@c", usuario.Contraseña),
+                new SqlParameter("@i", usuario.IdiomaId),
+                new SqlParameter("@act", usuario.Activo)
+            };
+            acceso.Escribir(query, parametros);
+        }
+
+        public Usuario ObtenerPorDNI(int dni)
         {
             string query = "SELECT * FROM Usuarios WHERE DNI=@dni";
-
-            // parámetros para evitar SQL Injection
             var parametros = new List<SqlParameter> {
                 new SqlParameter("@dni", dni)
             };
 
-            // ejecutar la consulta y obtener resultados en un DataTable
             DataTable dt = acceso.Leer(query, parametros);
-
             if (dt.Rows.Count == 0) return null;
 
             DataRow row = dt.Rows[0];
-            Usuario usuario = new Usuario
+            return new Usuario
             {
-               Id = Convert.ToInt32(row["Id"]),
-               Apellido = row["Apellido"].ToString(),
-                DNI = Convert.ToInt32(row["DNI"]),
+                Id = Convert.ToInt32(row["Id"]),
+                Apellido = row["Apellido"].ToString(),
+                DNI = Convert.ToInt32(row["DNI"]),                  
                 Contraseña = row["Contraseña"].ToString(),
-               IdiomaId = Convert.ToInt32(row["IdiomaId"]),
-               Activo = Convert.ToBoolean(row["Activo"])
+                IdiomaId = Convert.ToInt32(row["IdiomaId"]),
+                Activo = Convert.ToBoolean(row["Activo"])
             };
-
-            return usuario;
         }
 
         public void CambiarContraseña(int usuarioId, string nuevaContraseña)

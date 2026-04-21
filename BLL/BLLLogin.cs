@@ -12,12 +12,41 @@ namespace BLL
 {
     public sealed class BLLLogin
     {
-        private static readonly BLLLogin instancia = new BLLLogin();
-        public static BLLLogin Instancia => instancia;
+        private static BLLLogin instancia;
+        private MPPUsuario usuarioMPP = new MPPUsuario();
 
+        // Constructor privado
         private BLLLogin() { }
 
-        public Usuario IniciarSesion(string dni, string contraseña)
+        // Propiedad estática para acceder a la instancia única
+        public static BLLLogin Instancia
+        {
+            get
+            {
+                if (instancia == null)
+                {
+                    instancia = new BLLLogin();
+                }
+                return instancia;
+            }
+        }
+
+        public Usuario ValidarLogin(string apellido, int dni, string contraseña)
+        {
+            Usuario u = usuarioMPP.ObtenerPorDNI(dni);
+            if (u == null) return null;
+
+            string usuarioEsperado = apellido + dni;
+            string usuarioReal = u.Apellido + u.DNI;
+
+            if (usuarioEsperado == usuarioReal && u.Contraseña == contraseña)
+            {
+                return u;
+            }
+            return null;
+        }
+
+        public Usuario IniciarSesion(int dni, string contraseña)
         {
             Usuario usuario = new MPPUsuario().ObtenerPorDNI(dni);
 
@@ -27,7 +56,6 @@ namespace BLL
                 {
                     SessionManager.IniciarSesion(usuario);
 
-                    // Instancia de MPPBitacora
                     MPPBitacora bitacora = new MPPBitacora();
                     bitacora.Registrar(usuario.Id, "Login", "Inicio de sesión exitoso");
 
@@ -47,5 +75,9 @@ namespace BLL
 
             return null;
         }
+
+
+
     }
-  }
+}
+  
