@@ -29,7 +29,7 @@ namespace BLL
         {
             try
             {
-                // ✅ Usar la instancia, no la clase
+                
                 mppUsuario.CambiarContraseña(usuarioId, nuevaContraseña);
                 return true;
             }

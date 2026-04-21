@@ -62,7 +62,7 @@ namespace Tp_ing.software.Rivero___D_argenzio
             };
 
             // Llamar a la capa de negocio
-            BLLUsuario bllUsuario = new BLLUsuario();
+            BLLUsuario bllUsuario = new BLLUsuario ();
             bool creado = bllUsuario.CrearUsuario(nuevoUsuario);
 
             if (creado)

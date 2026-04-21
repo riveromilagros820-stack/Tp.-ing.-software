@@ -46,14 +46,32 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="fmrLogin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="fmrLogin.Designer.cs">
+      <DependentUpon>fmrLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmrRegistro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmrRegistro.Designer.cs">
+      <DependentUpon>fmrRegistro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCambioContraseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCambioContraseña.Designer.cs">
+      <DependentUpon>frmCambioContraseña.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="fmrLogin.resx">
+      <DependentUpon>fmrLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCambioContraseña.resx">
+      <DependentUpon>frmCambioContraseña.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -80,6 +98,10 @@
     <ProjectReference Include="..\BE\BE.csproj">
       <Project>{70eb5323-8391-4223-bf98-55b7703fbe89}</Project>
       <Name>BE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{9e32842d-c256-4fbe-be06-c35b6633bd30}</Project>
+      <Name>BLL</Name>
     </ProjectReference>
     <ProjectReference Include="..\DAL\DAL.csproj">
       <Project>{2d869ee8-6834-41ab-aa3e-d0753b8401c6}</Project>
